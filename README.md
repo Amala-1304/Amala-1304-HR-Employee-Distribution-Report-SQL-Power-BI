@@ -53,12 +53,15 @@ The average tenure for each department is about 8 years with Accounting, Auditin
 
 **Limitation in the analysis**
 
+
 Some records had negative ages and these were excluded during querying. Ages used were 18 years and above (age>=18).
 
 Some termdates were far into the future and were not included in the analysis. The only term dates used were those less than or equal to the current date.
 
 
 **Data Used**
+
+
 HR Data with over 2200 rows
 
 MySQL Workbench used for Data Cleaning and Analysis
